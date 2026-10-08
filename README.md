@@ -35,3 +35,6 @@ La versión mejorada es más segura porque valida los datos antes de procesarlos
 ## Fuentes
 - OWASP, Input Validation Cheat Sheet: https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html
 - GitHub Docs, About Git: https://docs.github.com/en/get-started/using-git/about-git
+
+## Estado final
+La versión mejorada incorpora validación preventiva y mensajes de error antes de procesar los datos.
